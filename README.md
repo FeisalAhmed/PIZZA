@@ -16,8 +16,8 @@
 
   ##THE PROJECT LINK
 
-      you can find my project on https://feisalahmed.github.io/pizza/
-      
+      You can find my project on https://feisalahmed.github.io/pizza/
+
  ##CONTACT INFO
 
   feizulf@gmail.com
